@@ -1,3 +1,10 @@
+/**
+ * Developer entity
+ * @description
+ * this class represents a developer entity.
+ * It has a first name and a last name.
+ */
+
 export class Developer {
     firstName;
     lastName;
